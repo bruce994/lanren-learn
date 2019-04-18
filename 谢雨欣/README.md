@@ -11,3 +11,5 @@
     + 后台发布了25篇文章
     + 检查发过的文章内链是否错误
     + 在同事帮助下尝试用GIT提交工作日志
+    + 尝试添加超链接 《http://http://www.lanrenmb.cn/uploads/LRMBPCT/20190418/20190418016/index.html》 
+    
