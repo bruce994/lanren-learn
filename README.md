@@ -1,7 +1,7 @@
 # **懒人云公司学习计划** #
 
 ### 公司资料
-##### [懒人营销平台功能介绍](更新中...)(https://github.com/bruce994/ryynet_docker/blob/master/%E6%87%92%E4%BA%BA%E8%90%A5%E9%94%80%E5%B9%B3%E5%8F%B0.md)
+##### [懒人营销平台功能介绍](https://github.com/bruce994/ryynet_docker/blob/master/%E6%87%92%E4%BA%BA%E8%90%A5%E9%94%80%E5%B9%B3%E5%8F%B0.md)
 ##### [懒人投票系统接口配置以及支付配置(图文版)](https://pan.baidu.com/s/1o8kQoCM)
 ##### [懒人投票系统教程之配置微信接口全解析视频](https://pan.baidu.com/s/1i52ZVmP)
 ##### [懒人投票系统教程之自定义菜单设置全解析](http://toupiao.lanrenmb.com/jiaocheng-caidan.html)
