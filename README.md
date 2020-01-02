@@ -24,7 +24,7 @@
     + 卓美落地页项目
     + 卓美转介绍海报项目
     + 一元购项目开发(微信端、代理端、Android端)
-    > 利用新框架开发项目，React开发前端、React Native开发android、ios
+    > 利用新框架开发项目，React开发前端、React Native开发android、ios;
     > 在2020年中，计划go语言、PostgreSQL数据库、Redis数据库的学习、把他们运用到实际项目中
 
 
